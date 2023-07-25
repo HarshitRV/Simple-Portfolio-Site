@@ -1,1 +1,1 @@
-## DA-3 Internet and Web Programming
+## DA-Theory Internet and Web Programming
